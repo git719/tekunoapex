@@ -1,0 +1,11 @@
+Some say the world will end in fire,<br /> 
+Some say in ice.<br /> 
+From what I’ve tasted of desire<br /> 
+I hold with those who favor fire.<br /> 
+But if it had to perish twice,<br /> 
+I think I know enough of hate<br /> 
+To say that for destruction ice<br /> 
+Is also great<br /> 
+And would suffice.<br />
+<br /> 
+[Robert Frost](https://en.wikipedia.org/wiki/Robert_Frost)
