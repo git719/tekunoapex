@@ -33,6 +33,6 @@ Yes, I think to myself<br />
 What a wonderful world<br />
 Ooh yeah<br />
 <br />
-[Louis Armstrong, the great Satchmo]([https://en.wikipedia.org/wiki/Robert_Frost](https://en.wikipedia.org/wiki/Louis_Armstrong)
-<br />
+[Louis Armstrong, the great Satchmo](https://en.wikipedia.org/wiki/Louis_Armstrong)
+
 !(satchmo.jpg)
