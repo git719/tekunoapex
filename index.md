@@ -38,11 +38,12 @@ Yes, I think to myself<br />
 What a wonderful world<br />
 Ooh yeah<br />
 <br />
-<a href="[thinking/](https://en.wikipedia.org/wiki/Louis_Armstrong)">Louis Armstrong, The Great Satchmo</a>
 </td>
 
 <td>
 <img src="satchmo.jpg" height="35%">
+  
+<a href="[thinking/](https://en.wikipedia.org/wiki/Louis_Armstrong)">Louis Armstrong, The Great Satchmo</a>
 </td>
 
 </tr>
