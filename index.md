@@ -1,6 +1,5 @@
 <body>
 <table>
-
 <tr>
 
 <td>
@@ -47,6 +46,5 @@ Ooh yeah<br />
 </td>
 
 </tr>
-
-<table>
+</table>
 </body>
