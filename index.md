@@ -1,8 +1,8 @@
-<body>
-<table border="0">
-<tr>
+<body style="border: none">
+<table style="border: none">
+<tr style="border: none">
 
-<td>
+<td style="border: none">
 I see trees of green<br />
 Red roses too<br />
 I see them bloom<br />
@@ -40,7 +40,7 @@ Ooh yeah<br />
 <br />
 </td>
 
-<td>
+<td style="border: none">
 <img src="satchmo.jpg" height="35%">
 <br />
 <a href="[thinking/](https://en.wikipedia.org/wiki/Louis_Armstrong)">Louis Armstrong, The Great Satchmo</a>
