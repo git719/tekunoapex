@@ -1,5 +1,5 @@
 <body>
-<table>
+<table border="0">
 <tr>
 
 <td>
@@ -42,7 +42,7 @@ Ooh yeah<br />
 </td>
 
 <td>
-<img src="satchmo.jpg">
+<img src="satchmo.jpg" height="35%">
 </td>
 
 </tr>
