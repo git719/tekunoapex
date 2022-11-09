@@ -1,3 +1,9 @@
+<body>
+<table>
+
+<tr>
+
+<td>
 I see trees of green<br />
 Red roses too<br />
 I see them bloom<br />
@@ -33,6 +39,14 @@ Yes, I think to myself<br />
 What a wonderful world<br />
 Ooh yeah<br />
 <br />
-[Louis Armstrong, the great Satchmo](https://en.wikipedia.org/wiki/Louis_Armstrong)
+<a href="[thinking/](https://en.wikipedia.org/wiki/Louis_Armstrong)">Louis Armstrong, The Great Satchmo</a>
+</td>
 
-!(satchmo.jpg)
+<td>
+<img src="satchmo.jpg">
+</td>
+
+</tr>
+
+<table>
+</body>
