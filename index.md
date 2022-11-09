@@ -43,7 +43,7 @@ Ooh yeah<br />
 <td style="border: none">
 <img src="satchmo.jpg" height="35%">
 <br />
-<a href="[thinking/](https://en.wikipedia.org/wiki/Louis_Armstrong)">Louis Armstrong, The Great Satchmo</a>
+Louis Armstrong <a href="https://en.wikipedia.org/wiki/Louis_Armstrong">The Great Satchmo</a>
 </td>
 
 </tr>
