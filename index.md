@@ -1,8 +1,3 @@
-<body style="border: none">
-<table style="border: none">
-<tr style="border: none">
-
-<td style="border: none">
 I see trees of green<br />
 Red roses too<br />
 I see them bloom<br />
@@ -38,14 +33,6 @@ Yes, I think to myself<br />
 What a wonderful world<br />
 Ooh yeah<br />
 <br />
-</td>
-
-<td style="border: none">
-<img src="satchmo.jpg" height="35%">
+<img src="satchmo.jpg" width="35%">
 <br />
 Louis Armstrong <a href="https://en.wikipedia.org/wiki/Louis_Armstrong">The Great Satchmo</a>
-</td>
-
-</tr>
-</table>
-</body>
