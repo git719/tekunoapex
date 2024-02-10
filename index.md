@@ -28,6 +28,9 @@
         What a wonderful world<br>
       </p>
     </div>
+  </div>
+
+  <div class="container">
     <div class="column">
       <p>
         The colors of the rainbow<br>
@@ -36,9 +39,6 @@
         Of people going by<br>
       </p>
     </div>
-  </div>
-
-  <div class="container">
     <div class="column">
       <p>
         I see friends shaking hands<br>
@@ -47,6 +47,9 @@
         "I love you"<br>
       </p>
     </div>
+  </div>
+
+  <div class="container">
     <div class="column">
       <p>
         I hear babies cry<br>
