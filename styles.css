@@ -10,9 +10,8 @@ body {
 }
 
 .column {
-  /* flex: 1; */
   /* border: 1px solid #ddd; */
-  /* margin: 10px; */
-  flex-basis: 10%; /* Adjust as needed */
-  padding: 10px;
+  margin: 0;
+  flex-basis: 50%; /* Adjust as needed */
+  padding: 0;
 }
