@@ -6,9 +6,9 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 
-  <body>
+<body>
   <div class="container">
-    <div class="column">
+    <div class="stanza">
       <p>
         I see trees of green<br>
         Red roses too<br>
@@ -16,9 +16,10 @@
         For me and you<br>
         And I think to myself<br>
         What a wonderful world<br>
+        <br>
       </p>
     </div>
-    <div class="column">
+    <div class="stanza">
       <p>
         I see skies of blue<br>
         And clouds of white<br>
@@ -26,31 +27,34 @@
         The dark sacred night<br>
         And I think to myself<br>
         What a wonderful world<br>
+        <br>
       </p>
     </div>
   </div>
 
   <div class="container">
-    <div class="column">
+    <div class="stanza">
       <p>
         The colors of the rainbow<br>
         So pretty in the sky<br>
         Are also on the faces<br>
         Of people going by<br>
+        <br>
       </p>
     </div>
-    <div class="column">
+    <div class="stanza">
       <p>
         I see friends shaking hands<br>
         Saying, "How do you do?"<br>
         They′re really saying<br>
         "I love you"<br>
+        <br>
       </p>
     </div>
   </div>
 
   <div class="container">
-    <div class="column">
+    <div class="stanza">
       <p>
         I hear babies cry<br>
         I watch them grow<br>
@@ -58,13 +62,15 @@
         Than I′ll ever know<br>
         And I think to myself<br>
         What a wonderful world<br>
+        <br>
       </p>
     </div>
-    <div class="column">
+    <div class="stanza">
       <p>
         Yes, I think to myself<br>
         What a wonderful world<br>
         Ooh yeah ...<br>
+        <br>
       </p>
     </div>
   </div>
