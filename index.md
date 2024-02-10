@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -6,6 +5,9 @@
   <title>3 Column Layout</title>
   <link rel="stylesheet" href="styles.css">
 </head>
+
+
+
 <body>
   <div class="container">
     <div class="column">
