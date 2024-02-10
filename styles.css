@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.column {
+  /* flex: 1; */
+  /* border: 1px solid #ddd; */
+  /* margin: 10px; */
+  flex-basis: 50%; /* Adjust as needed */
+  padding: 10px;
+}
